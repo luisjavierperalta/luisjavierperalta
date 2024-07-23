@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java v11-v21 & Spring Framework**
 
-- 📫 How to reach me **luisjavierperalta.office@gmail.com**
+- 📫 How to reach me **itsluisjavierperalta@gmail.com**
 
 - 📄 Know about my experiences [https://luisjavierperalta.com](https://luisjavierperalta.com)
 
