@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://luisjavierperalta.com](https://luisjavierperalta.com)
 
-- 💬 Ask me about **Java v11-v21 & Spring Framework**
+- 💬 Ask me about **Java v11-v21, OOP Software Design & Spring Modules**
 
 - 📫 How to reach me **itsluisjavierperalta@gmail.com**
 
