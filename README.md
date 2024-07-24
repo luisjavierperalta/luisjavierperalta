@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [@blipAPP real-time GPS meeting mobile APP](https://luisjavierperalta.com)
 
-- 🌱 I’m currently learning **Go (Golang) & Software Engineering with Go**
+- 🌱 I’m currently learning **Big O Analysis of Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://luisjavierperalta.com](https://luisjavierperalta.com)
 
