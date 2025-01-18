@@ -1,22 +1,19 @@
 <h1 align="center">Welcome👋! I'm Luis Javier Peralta</h1>
-<h3 align="center">IBM Certified Junior DevOps Engineer & AWS Cloud Solutions Architect</h3>
+<h3 align="center">Junior Cloud Engineer | AWS SysOps Administrator Associate</h3>
 
-- 🔭 I’m currently working on [@blip A real-time, AI-powered mobile app that enable ID-verified users to instantly connect and meet in-person based on advanced secure A-GPS location technology.](https://blipapp.live)
+- 🔭 I’m currently developing a personal project, It's a mobile app for iOS & Androrid [@blip A real-time, AI-powered mobile app that enable ID-verified users to instantly connect and meet in-person based on advanced secure A-GPS location technology.](https://blipapp.live)
+- I'm weekly focused on my Cloud Computing Engineering education & training by getting ready for @AWS SysOps Administrator Associate Certified Exam 2 Weeks (@AWS Certified Cloud Practitioner Foundations Exam)
+- I'm weekly training my hands-on ops skills by doing daily Client's cloud infrastructure simulations based on real-world scenarios (AWS focused but OK for hybrid & multi-cloud) to check [https://luisjavierperalta.com](https://luisjavierperalta.com)
+- 🌱 Next I'll get professional hands-on training experince w/ @Kubernetes (CKA), @Docker(DCA) & @Terraform Associate HashiCorp 
 
-- 🌱 I’m currently learning **Getting certified in @Kubernetes (CKA), @Docker(DCA) & @Terraform Associate Certified**
-
-- 🤝 I’m looking for help with [@blip mobile app (UI Android/ iOS v2.0 development)](https://blipapp.live)
-
+- 🤝 [https://blipapp.live](https://blipapp.live) webiste will be live soon, it's a cool mobile app for daily use, if you interested contact me luisjavierperalta@aol.com
 - 👨‍💻 All of my projects are available at [https://luisjavierperalta.com](https://luisjavierperalta.com)
 
-- 💬 Ask me about **DevOps workflow & tools, AI development & Scripting with @Python and Cloud Computing (AWS specialized)**
-
-- 📫 How to reach me **itsluisjavierperalta@gmail.com**
+- 📫  Contact me at luisjavierperalta@aol.com
 
 - 📄 Know about my experiences [https://luisjavierperalta.com](https://luisjavierperalta.com)
 
-- ⚡ Fun fact **When I learned my first language @Java, I saw myself as the coolest software engineer, now that I officially specialized myself as DevOps Engineer & AWS Cloud Solutions Architect with Cloud Computing training (@Python), well now I do really know what software engineering really is.**
-
+- ⚡ Fun fact **When I was learning my first programming language @Java, I saw myself as the coolest software engineer on the planet, now that I officially specializing into Cloud Computing Engineering & DevOps Engineering, well now I do really know what modern software engineering really is.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ljavierperalta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ljavierperalta" height="30" width="40" /></a>
