@@ -10,9 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://luisjavierperalta.com](https://luisjavierperalta.com)
 
 - 📫  Contact me at luisjavierperalta@aol.com
-
-- 📄 Know about my experiences [https://luisjavierperalta.com](https://luisjavierperalta.com)
-
+- 
 - ⚡ Fun fact **When I was learning my first programming language @Java, I saw myself as the coolest software engineer on the planet, now that I officially specializing into Cloud Computing Engineering & DevOps Engineering, well now I do really know what modern software engineering really is.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
